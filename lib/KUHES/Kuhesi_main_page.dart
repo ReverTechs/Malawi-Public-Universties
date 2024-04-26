@@ -67,7 +67,7 @@ class _KuhesMainPageState extends State<KuhesMainPage> {
         ),
 //-------------------------------
 
-//-------------------------------
+//--------
 
         child: ListView(
           children: <Widget>[
